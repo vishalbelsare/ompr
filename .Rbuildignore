@@ -9,10 +9,15 @@
 ^_pkgdown.yml
 ^src/\.clang-format
 ^cran-comments\.md$
-^README\.md$
 ^README\.Rmd$
-^LICENSE
 ^\.gitignore$
 ^\.Rhistory$
 ^_pkgdown\.yml$
 ^\.github$
+^codecov\.yml$
+^LICENSE\.md$
+^docs$
+^pkgdown$
+^revdep$
+^CITATION\.cff$
+^CRAN-SUBMISSION$

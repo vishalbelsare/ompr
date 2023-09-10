@@ -1,6 +1,7 @@
 # History files
 .Rhistory
 .Rapp.history
+.DS_Store
 
 # Session Data files
 .RData
@@ -25,3 +26,4 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 inst/doc
+docs
